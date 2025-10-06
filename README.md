@@ -1,6 +1,6 @@
 # Khoi Nguyen — Resume
 
- Welcome to my resume repository! This repo contains my resume written in LaTeX, highlighting my background in Business Analytics and my projects in data analysis and visualization.
+ Welcome to my resume repository! This repo contains my resume, highlighting my background in Business Analytics and my projects in data analysis and visualization.
 
 ## About Me
 
