@@ -1,8 +1,8 @@
-📄 Khoi Nguyen — Resume
+# Khoi Nguyen — Resume
 
-# Welcome to my resume repository! This repo contains my resume written in LaTeX, highlighting my background in Business Analytics and my projects in data analysis and visualization.
+ Welcome to my resume repository! This repo contains my resume written in LaTeX, highlighting my background in Business Analytics and my projects in data analysis and visualization.
 
-##About Me
+## About Me
 
 Aspiring Business Analyst
 
@@ -12,7 +12,7 @@ Familiar with Python, R, and C++
 
 Passionate about data-driven decision-making
 
-##Featured Projects
+## Featured Projects
 
 E-Commerce Transactions Analysis (SQL, Power BI)
 Analyzed 50,000+ transactions, identified customer segments, and built interactive dashboards for revenue and product trends.
@@ -20,7 +20,7 @@ Analyzed 50,000+ transactions, identified customer segments, and built interacti
 Customer Churn Analysis (SQL, Tableau)
 Segmented customers by churn risk, visualized trends across demographics, and proposed data-backed retention strategies.
 
-##Education
+## Education
 
 Owens Community College — Associate in Business Analytics (Expected 2027)
 
